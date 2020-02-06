@@ -38,6 +38,18 @@ nav ul li:first-child{
     font-size: xx-large;
     font-family: fantasy;
 }
+h2{
+    font-style: italic;
+    font-family: 'Jim Nightshade', cursive;
+    text-align: center;
+    color: green;
+    font-size: 50px;
+}
+img{
+    width: 350px;
+    height: 300px;
+    padding:10px;
+}
 
   
     
