@@ -1,0 +1,44 @@
+#top-nav{
+    border-bottom: 30px solid skyblue ;
+    text-transform: uppercase;
+    background-color: antiquewhite;
+}
+nav ul li{
+    font-size: larger;
+    color: #000080;
+    display: inline-block;
+    float: right;;
+    
+   
+}
+#top-nav h1{
+    color:#000080;
+    text-align: center;
+}
+
+#top-nav a:hover{
+    background-color: royalblue;
+    color:whitesmoke;
+} 
+#top-nav a{
+    float: right;
+    color: #000080;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+nav ul li:first-child{
+    float: left;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+
+  
+    
+  
