@@ -44,13 +44,16 @@ h2{
     text-align: center;
     color: green;
     font-size: 50px;
+    padding:0;
 }
 img{
     width: 350px;
     height: 300px;
-    padding:10px;
+    padding:0 10px;
 }
-
+body{
+    background-color: #E8DAEF ;
+}
   
     
   
